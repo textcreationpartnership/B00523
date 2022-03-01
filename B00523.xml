@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvhoremongers conuersion, and his exhortation to's worshipfull friend, to leaue haunting whores; from his words this wasptenn'd: and at his request, which makes the author bolder: it is to be sung like The maunding souldier.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00523</idno>
+            <idno type="STC">STC 19282</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[478]</idno>
+            <idno type="EEBO-CITATION">99884556</idno>
+            <idno type="PROQUEST">ocm99884556</idno>
+            <idno type="VID">183169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183169)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[253])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvhoremongers conuersion, and his exhortation to's worshipfull friend, to leaue haunting whores; from his words this wasptenn'd: and at his request, which makes the author bolder: it is to be sung like The maunding souldier.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Cowles.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1629]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M.P. [i.e. Martin Parker].</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Good your worship cast your eye ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="478" facs="tcp:183169:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>The VVhoremongers Conuerſion,</head>
+            <argument>
+               <l>And his Exhortation to's worſhipfull friend,</l>
+               <l>To leaue haunting whores; from his words this wasptenn'd:</l>
+               <l>And at his requeſt, which makes the Author bolder:</l>
+               <l>It is to be ſung like the maunding Souldier.</l>
+            </argument>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>GOod your Worſhip caſt your eye,</l>
+                  <l>Vpon a whore-houſe ſcornfully</l>
+                  <l>Let not their painted faces gay,</l>
+                  <l>Driue from your heart all grace away:</l>
+                  <l>but like a Neaphite,</l>
+                  <l>abandon quite</l>
+                  <l>all ſenſuall pleaſure and delight:</l>
+                  <l>and then you ſoone ſhall finde</l>
+                  <l>a ſwéets contented minds,</l>
+                  <l>and haue your purſe ſtill better linde.</l>
+               </lg>
+               <lg>
+                  <l>To beg I was not borne, ſwéet ſir,</l>
+                  <l>Yet this petition I preferre</l>
+                  <l>Vnto your worſhip: which may giue</l>
+                  <l>You good inſtructions how to liue,</l>
+                  <l>leaue following of Whores,</l>
+                  <l>and them that roares,</l>
+                  <l>oh doe not come within their doores,</l>
+                  <l>and then you ſoone will finde</l>
+                  <l>a ſwéet contented minde</l>
+                  <l>and haue your purſe ſtill better linde.</l>
+               </lg>
+               <lg>
+                  <l>I'de ſcorne to make compariſon,</l>
+                  <l>With a Iew, a Turke, or Sarizon:</l>
+                  <l>That in their liues ne'r taſted grace,</l>
+                  <l>But ſtill haue runne a wicked race:</l>
+                  <l>yet in bad deſires,</l>
+                  <l>call'd Cupids fires,</l>
+                  <l>they paſſe not you, then néed requires,</l>
+                  <l>that you your Whores forſake,</l>
+                  <l>and better courſes take,</l>
+                  <l>or elſe you'll feele th' infernall Lake.</l>
+               </lg>
+               <lg>
+                  <l>Then ſcorne thoſe painted counterfeits,</l>
+                  <l>That get their meanes by wicked ſleights,</l>
+                  <l>They'll learne you ſo much parly French,</l>
+                  <l>From you ſhall come a rotten ſtench,</l>
+                  <l>and at laſt you ſhall</l>
+                  <l>be forſt to fall,</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith Surgeons hands, o'th Hoſpitall:</l>
+                  <l>there you ſhall lye and rot</l>
+                  <l>this is by Whoring got,</l>
+                  <l>then good your worſhip vſe it not.</l>
+               </lg>
+               <lg>
+                  <l>For I (ſir) limping lame haue béene,</l>
+                  <l>Sore bitten by the Scorpiuns kéene,</l>
+                  <l>In a bawdy houſe I vſ'd to roare,</l>
+                  <l>Till all my ioynts were pocky ſore:</l>
+                  <l>all this I haue endur'd,</l>
+                  <l>which vice procur'd,</l>
+                  <l>and ſince of health I am aſſur'd,</l>
+                  <l>I will doe what I can,</l>
+                  <l>to hinder euery man</l>
+                  <l>from that baſe courſe which once I ran.</l>
+               </lg>
+               <lg>
+                  <l>Thrice thorou the ſkull I haue béene ſhot,</l>
+                  <l>Till all my haire came off, God wot,</l>
+                  <l>I haue at leaſt a doozen times</l>
+                  <l>Béene apprehended for theſe crimes:</l>
+                  <l>the Conſtable and Watch</l>
+                  <l>oft did me catch.</l>
+                  <l>thus I diſgrace got by the match:</l>
+                  <l>and ſo ſhall euery one</l>
+                  <l>that does as I haue done:</l>
+                  <l>then, good your worſhip, wenching ſhun.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="479" facs="tcp:183169:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 1 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AT pot and pipe I loſt mine eye,</l>
+                  <l>In quarrell moſt vnluckily:</l>
+                  <l>To old-ſtréet end, though then a lad,</l>
+                  <l>Foure wenches at one time I had:</l>
+                  <l>oh you would little wéene,</l>
+                  <l>that I haue béene</l>
+                  <l>a Champion vnto many a Quean:</l>
+                  <l>I haue béene beaten ſore,</l>
+                  <l>ith quarrell of a whore,</l>
+                  <l>but now I will be ſo no more.</l>
+               </lg>
+               <lg>
+                  <l>I comming from a play was tane,</l>
+                  <l>By th' Marſhals men in Golding-lane,</l>
+                  <l>And ſtripped out of money quite,</l>
+                  <l>Exchanging Gold for Siluer white:</l>
+                  <l>thus in poore aray</l>
+                  <l>I hriſoner lay,</l>
+                  <l>vntill my friends the debd did pay,</l>
+                  <l>for a bond of my word I paſt,</l>
+                  <l>and thus was ſcorn'd at laſt:</l>
+                  <l>then good your worſhip liue more chaſte.</l>
+               </lg>
+               <lg>
+                  <l>There's no bad place that you can name,</l>
+                  <l>But I haue bin in't, the more's my ſhame;</l>
+                  <l>In Turnbull ſtréet and Bloomesbury,</l>
+                  <l>I haue playd my part moſt ſhameleſly:</l>
+                  <l>at Blackman-ſtréet I haue</l>
+                  <l>like a luſtfull knaue,</l>
+                  <l>receiu'd what welcome harlots gaue:</l>
+                  <l>and at Roſemary lane</l>
+                  <l>I did two whores maintaine,</l>
+                  <l>but now their baſeneſſe I diſdaine.</l>
+               </lg>
+               <lg>
+                  <l>And ſince I haue béene at Cow-croſſe</l>
+                  <l>So puniſht with my Purſes loſſe:</l>
+                  <l>Since that at Pickt-hatch I by chance</l>
+                  <l>Learn'd French of one that ne'r ſaw France:</l>
+                  <l>there I loſt my cloake,</l>
+                  <l>which almoſt broke</l>
+                  <l>me quite: all this for truth is ſpoke,</l>
+                  <l>and now I hom ame come</l>
+                  <l>with a newly mended bum,</l>
+                  <l>ſuch hap <hi>Ioue</hi> kéepe your worſhip from.</l>
+               </lg>
+               <lg>
+                  <l>And now my caſe you vnderſtand,</l>
+                  <l>Good ſir, let me this boone demand:</l>
+                  <l>That you'll be warn'd by me, and leaue</l>
+                  <l>Theſe damned Queanes that will bereaue</l>
+                  <l>not onely you of wealth,</l>
+                  <l>but bodies health,</l>
+                  <l>nay that's not all, for they by ſtealth</l>
+                  <l>will ſteale your ſoule away,</l>
+                  <l>to be the deuils prey:</l>
+                  <l>then ſwéet ſir, leaue them while you may.</l>
+               </lg>
+               <lg>
+                  <l>I pray your worſhip thinke on me,</l>
+                  <l>That am a poore man, as you ſée:</l>
+                  <l>Yet once I was with wealth indude,</l>
+                  <l>Which I haue ſpent with ſtrumpets lewd</l>
+                  <l>and ſo will you in time,</l>
+                  <l>if this your prime</l>
+                  <l>you waſte away in ſuch a crime:</l>
+                  <l>but I for you will pray,</l>
+                  <l>that you may mend this day.</l>
+                  <l>Oh ſwéet ſir, think of what I ſay.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>M.P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for Fr. Cowles.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
